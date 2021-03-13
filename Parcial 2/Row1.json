@@ -1,0 +1,16 @@
+[ {
+  "CLASE_ACC" : "ATROPELLO",
+  "Count*(OBJECTID)" : 155
+}, {
+  "CLASE_ACC" : "CAIDA DE OCUPANTE",
+  "Count*(OBJECTID)" : 26
+}, {
+  "CLASE_ACC" : "CHOQUE",
+  "Count*(OBJECTID)" : 1842
+}, {
+  "CLASE_ACC" : "OTRO",
+  "Count*(OBJECTID)" : 5
+}, {
+  "CLASE_ACC" : "VOLCAMIENTO",
+  "Count*(OBJECTID)" : 34
+} ]
